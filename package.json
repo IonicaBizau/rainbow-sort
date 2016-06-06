@@ -1,0 +1,43 @@
+{
+  "name": "rainbow-sort",
+  "description": "Sort a list of given colors in the rainbow order.",
+  "keywords": [
+    "rainbow",
+    "sort",
+    "a",
+    "list",
+    "of",
+    "given",
+    "colors",
+    "in",
+    "the",
+    "order"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "scripts/",
+    "cli.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/rainbow-sort.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/rainbow-sort/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/rainbow-sort#readme"
+}
