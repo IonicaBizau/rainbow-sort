@@ -29,6 +29,7 @@
     "resources/",
     "menu/",
     "scripts/",
+    "build/",
     "cli.js",
     "index.js"
   ],
@@ -39,5 +40,22 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/rainbow-sort/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/rainbow-sort#readme"
+  "homepage": "https://github.com/IonicaBizau/rainbow-sort#readme",
+  "dependencies": {
+    "color": "^0.11.1"
+  },
+  "devDependencies": {
+    "couleurs": "^6.0.3"
+  },
+  "blah": {
+    "ex_img": "http://i.imgur.com/n3r6w5m.png",
+    "description": [
+      {
+        "h2": "First rainbow :rainbow:"
+      },
+      {
+        "blockquote": "*Whenever I bring clouds over the earth and the rainbow appears in the clouds, I will remember my covenant between me and you and all living creatures of every kind. Never again will the waters become a flood to destroy all life.*—Genesis 9:14-15"
+      }
+    ]
+  }
 }
