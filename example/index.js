@@ -5,7 +5,7 @@ const rainbowSort = require("../lib")
     , color = require("color")
     ;
 
-let before = ["#701516", "#fcd7de", "#6866fb"]
+let before = ["blue", "green", "yellow", "red", "orange"]
   , after = rainbowSort(before)
     // => ["red", "orange", "yellow", "green", "blue"]
 
